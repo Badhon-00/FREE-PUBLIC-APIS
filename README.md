@@ -1044,6 +1044,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Food Standards Agency](http://ratings.food.gov.uk/open-data/en-GB) | UK food hygiene rating data API | No | No | Unknown |
 | [Gazette Data, UK](https://www.thegazette.co.uk/data) | UK official public record API | `OAuth` | Yes | Unknown |
 | [Gun Policy](https://www.gunpolicy.org/api) | International firearm injury prevention and policy | `apiKey` | Yes | Unknown |
+| [Harmonized Tariff Schedule](https://hts.starfile.org/api) | Every U.S. HTS import tariff code with duty rates, product descriptions, and chapter metadata | No | Yes | Yes |
 | [INEI](http://iinei.inei.gob.pe/microdatos/) | Peruvian Statistical Government Open Data | No | No | Unknown |
 | [Interpol Red Notices](https://interpol.api.bund.dev/) | Access and search Interpol Red Notices | No | Yes | Unknown |
 | [Istanbul (İBB) Open Data](https://data.ibb.gov.tr) | Data sets from the İstanbul Metropolitan Municipality (İBB) | No | Yes | Unknown |
@@ -1290,6 +1291,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Recreation Information Database](https://ridb.recreation.gov/) | Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US) | `apiKey` | Yes | Unknown |
 | [Scoop.it](http://www.scoop.it/dev) | Content Curation Service | `apiKey` | No | Unknown |
 | [Socrata](https://dev.socrata.com/) | Access to Open Data from Governments, Non-profits and NGOs around the world | `OAuth` | Yes | Yes |
+| [Statistics of the World](https://statisticsoftheworld.com/api-docs) | Economic data for 218 countries — GDP, population, inflation, and 440+ indicators from IMF and World Bank | No | Yes | Yes |
 | [Teleport](https://developers.teleport.org/) | Quality of Life Data | No | Yes | Unknown |
 | [Umeå Open Data](https://opendata.umea.se/api/) | Open data of the city Umeå in northen Sweden | No | Yes | Yes |
 | [Universities List](https://github.com/Hipo/university-domains-list) | University names, countries and domains | No | Yes | Unknown |
